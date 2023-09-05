@@ -1,4 +1,2 @@
-# TIL(PLC) 8.7 ~ 9.25 <br>
-
-
+# Today I Learned (PLC) 8.7 ~ 9.25
 
